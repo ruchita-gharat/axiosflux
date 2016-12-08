@@ -1,0 +1,27 @@
+body,
+html {
+	margin: 0;
+	width: 100%;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 18px;
+}
+
+.tiles {
+	
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	position: relative;
+}
+
+.tile {
+	
+ width: 20%;
+	height: 100px;
+	
+
+}
+img {
+		width: 100%;
+		height: 100px;
+	}
